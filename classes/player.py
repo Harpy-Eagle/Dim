@@ -1,0 +1,26 @@
+class player:
+	hp = 1
+	ac = 0
+	maxhp = 10
+	gold = 0
+	upg = 0
+	armor = "Clothing"
+	hpupg = 0
+	swupg = 0
+	lockpicks = False
+	region = "Forest"
+	n_region_count = 0
+	e_region_count = 18
+	s_region_count = 0
+	w_region_count = 0
+	region_count = 0
+	mentality = 901 #Base 1000
+	potions = 0
+	bones = 0
+	rations = 0
+	clock = 0
+	time = None
+	sword_skill = 1
+	first_time = True
+	sword = True
+	village = "Verston"
